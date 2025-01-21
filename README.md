@@ -42,5 +42,7 @@ Then, open your browser and visit:
 http://localhost:5173
 ```
 
+This project is made as a codealong for Udemy course "The Web Developer Bootcamp 2024".
+
 
 
